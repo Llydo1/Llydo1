@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Llydo1
-- 👀 I’m interested in how to have a happy life
-- 🌱 I’m currently learning smart contract programming
+- 👀 I’m interested in high tech, especially blockchain
+- 🌱 I’m currently learning smart contract programming (solidity, rust)
 
 <!---
 Llydo1/Llydo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
